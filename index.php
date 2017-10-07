@@ -62,7 +62,7 @@ body {
                                     <input class="form-control" placeholder="Contraseña" name="txtPassword" id="txtPassword" type="password" required="">
                                 </div>
                                 <div class="form-group">
-                                    <select name="tipousuario" id="tipousuario" class="form-control" required="">
+                                    <select name="tipousuario" id="tipousuario" class="form-control" >
                                         <option selected=""></option>
                                     	<option value="1">ADMINISTRADOR</option>
                                     	<option value="2">VENDEDOR</option>
